@@ -10,6 +10,8 @@ target 'sunrin_hackathon' do
 
   pod 'RNSVG', :path => '../node_modules/react-native-svg'
 
+  pod 'RNCustomKeyboardKit', :path => '../node_modules/react-native-custom-keyboard-kit'
+
   target 'sunrin_hackathonTests' do
     inherit! :complete
     # Pods for testing
