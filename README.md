@@ -28,6 +28,17 @@
 시각장애인 분들은 손 동작이 많이 어설프기 때문에 최소 손동작이 필요합니다.  
 그러하여 모든 버튼은 아래에 존재하고 있습니다.
 
+## <b>사용한 프레임워크 / 기술 🗂</b> 
+
+<div style="display: inline-block">
+    <img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+    <img height="70" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png">
+    <img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+    <img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+</div>
+  
+etc., Naver Cloud Platform (CPV) (https://www.ncloud.com/product/aiService/cpv)
+
 ## <b>함께 한 팀원 💁</b>   
   
 Back-end **남승원**  
